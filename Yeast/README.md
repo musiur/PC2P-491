@@ -1,6 +1,4 @@
-# PC2P 491
-
-CSE 491 Spring 24 - North South University, Dhaka, Bangladesh
+# PC2P 
 
 ### Protein Complexes from Coherent Partition
 
